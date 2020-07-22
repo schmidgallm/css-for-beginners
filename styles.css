@@ -1,0 +1,30 @@
+/*
+-------------------- 
+Reset 
+-------------------- 
+*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/*
+-------------------- 
+Selectors 
+-------------------- 
+*/
+
+/* Selecting Elements */
+div {
+  /* color: red; */
+  background-color: #c57070;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+p {
+  text-decoration: underline;
+}
